@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,4 +25,4 @@ Things you may want to cover:
 =======
 # bookstore_backend
 Rails api for a VueJs client.
->>>>>>> f2dd80a9ebfde58d85648f35745fc843e44dcb4f
+
